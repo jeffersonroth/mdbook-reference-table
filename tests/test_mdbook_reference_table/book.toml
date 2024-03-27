@@ -1,0 +1,12 @@
+[book]
+authors = ["jeffersonroth"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Testing mdbook-reference-table"
+
+[preprocessor.reference-table]
+command = "../../target/release/mdbook-reference-table.exe"
+reference-table = "./reference-table.yaml"
+
+[output.html]
