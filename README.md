@@ -82,6 +82,4 @@ Copyright (C) 2024 Jefferson Johannes Roth Filho. See `LICENSE` for more informa
 
 Jefferson Roth - <jjrothfilho@gmail.com>
 
-Project Link: [https://hub.docker.com/r/jeffroth/mdbook-reference-table](https://hub.docker.com/r/jeffroth/mdbook-reference-table)
-
 crates.io: [mdbook-reference-table](https://crates.io/crates/mdbook-reference-table)
