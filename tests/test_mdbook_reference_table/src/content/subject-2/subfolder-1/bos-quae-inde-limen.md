@@ -9,7 +9,6 @@ Lorem markdownum exiluit fuit [munera](http://www.longumenim.com/spatiosumque.ht
 - Miseram neque ardor rubens
 - Demit regnarat spesque
 - Funeribus rictuque posse
-- :cat: and :dog:
 
 ## Agit missos tegi
 
@@ -34,4 +33,5 @@ Contorta et aquae refert tua iaculum; duplicataque Medon *utentem suos* erat, lo
 ## References
 
 - {{reference: {id: "audita-quot", title: "Audit quot"}}}
+- {{reference: {id: "aliter-facta-cornibus-tandem", title: "Aliter facta cornibus tandem"}}}
 - {{reference: {id: "esse-corpora-achaidas-sacros-ad-quas", title: "Esse corpora Achaidas sacros ad quas"}}}

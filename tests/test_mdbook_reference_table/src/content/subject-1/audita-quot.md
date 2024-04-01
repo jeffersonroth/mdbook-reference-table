@@ -22,5 +22,7 @@ Aut est et neque erat villosis avium moverat! Adepta planissima deus potenti Mae
 
 ## References
 
+- {{reference: {id: "audita-quot", title: "Audit quot"}}}
+- {{reference: {id: "aliter-facta-cornibus-tandem", title: "Aliter facta cornibus tandem"}}}
 - {{reference: {id: "bos-quae-inde-limen", title: "Bos quae inde lime"}}}
 - {{reference: {id: "esse-corpora-achaidas-sacros-ad-quas", title: "Esse corpora Achaidas sacros ad quas"}}}
